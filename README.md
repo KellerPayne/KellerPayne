@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KellerPayne
-- 👀 I’m interested in Front Back End Web Development
-- 🌱 I’m currently learning HTML and CSS
+- 👋 Hi, I’m @KellerPayne!
+- 👀 I’m interested in Front Back End Web Development, Software Development, and Software Engineering!
+- 🌱 I’m currently learning HTML and CSS!
 - 📫 How to reach me:
 -   Email: kellerpayne@yahoo.com
 
