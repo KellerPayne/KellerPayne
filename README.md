@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KellerPayne!
-- 👀 I’m interested in Front and Back End Web Development, Software Development, and Software Engineering!
-- 🌱 I’m currently working on finishing up my BS in Computer Science!
+- 👀 Proficient in Java, HTML, CSS, C, C++, JavaScript, and Python!
+- 🌱 UNO Computer Science Class of Fall '25!
 - 📫 How to reach me:
 -   Email: kellerpayne@yahoo.com
 
